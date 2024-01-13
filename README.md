@@ -1,4 +1,4 @@
-# converting-image-audio-in-python-
+# Converting-Image-Audio-in-python
 Converting a Image into Audio using Pytesseract 
 **pytesseract**
 
